@@ -18,7 +18,9 @@ To use/install the app you have to have installed XCode IDE in the MacOS. Simply
 
 1. Next photo gesture (tap) with hold gesture to display description
 
+<span>
 <img src="https://github.com/RobertNeat/Field_validation/blob/main/screenshots/1_first_launch.png" width="200"/>
 <img src="https://github.com/RobertNeat/Field_validation/blob/main/screenshots/2_proper_validated.png" width="200"/>
 <img src="https://github.com/RobertNeat/Field_validation/blob/main/screenshots/3_number_inproper_validated.png" width="200"/>
 <img src="https://github.com/RobertNeat/Field_validation/blob/main/screenshots/4_special_characetr_inproper_validated.png" width="200"/>
+</span>
